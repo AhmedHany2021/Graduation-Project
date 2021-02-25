@@ -1,0 +1,25 @@
+<?php
+$_['main_name'] = "Bio Ware";
+$_['Departments_Doctors'] = "Doctors";
+$_['Blogs'] = "Blogs";
+$_['Articles'] = "Articles & Medical Websites";
+$_['Available'] = "Available";
+$_['Account'] = "Account";
+$_['Logout'] = "Logout";
+$_['Dashboard'] = "Dashboard";
+$_['Menu'] = "Menu";
+$_['profile'] = "profile";
+$_['Contact_Doctor'] = "Contact a Doctor";
+$_['My_Readings'] = "My Readings";
+$_['ECG'] = "ECG";
+$_['Heart_Rate'] = "Heart Rate";
+$_['Steps'] = "Steps";
+$_['About_Us'] = "About Us";
+$_['about_us_talk'] = "care about your health, providing better life for you and your loved ones.";
+$_['Address'] = "Address";
+$_['adress_implement'] = "25 Sherif street, Helwan-Egypt.";
+$_['Telephone'] = "Telephone";
+$_['telephone_implement'] = "012-6532-568-9746";
+$_['lang'] = 'عربى';
+$_['notfound'] = 'Sorry Wrong Path';
+$_['noview'] = 'NO VIEW IMPLEMENTED YET';
